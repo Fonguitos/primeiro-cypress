@@ -1,6 +1,6 @@
 # Meu primeiro projeto em Cypress. Automação de Login.
 
-## Esse projeto utiliza Cypres para automatizar uma feature de login e atualizção de perfil.
+## Esse projeto utiliza Cypress para automatizar uma feature de login e atualizção de perfil.
 
 ### Instação
 
